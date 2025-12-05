@@ -4,7 +4,7 @@ Predict five polymer properties under extreme missingness using a relational GCN
 
 ## Features
 
-- **Dataset**: NeurIPS 2025 competition dataset (8,835 polymers, 10× larger than prior open-source resources)
+- **Dataset**: NeurIPS 2025 competition dataset (8,835 polymers)
 - **Targets**: `Tg`, `FFV`, `Tc`, `Density`, `Rg` (ground truth from molecular dynamics simulations)
 - **Representation**: 3-edge (0=SINGLE, 1=DOUBLE, 2=TRIPLE); aromatic bonds tagged `-1` (excluded from message passing) and captured via node features
 - **Loss + Selection**: Masked multitask regression with weighted MAE (wMAE) aligned to competition evaluation metric; selection on `val_wmae`
