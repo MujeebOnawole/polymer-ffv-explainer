@@ -425,7 +425,7 @@ Contributions are welcome! Please:
 
 ## Contact
 
-[Add contact information or link to issues page]
+atonawole@gmail.com
 
 ## Acknowledgments
 
