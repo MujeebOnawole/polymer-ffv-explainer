@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+scikit-learn
+psutil
+
+# Torch + GNN
+torch
+torch-geometric
+pytorch-lightning
+torchmetrics
+
+# Optimization + storage
+optuna
+sqlalchemy
+
+# Chemistry
+rdkit-pypi
+
+# IO / plotting / extras
+pyarrow
+matplotlib
+seaborn
+openpyxl
+joblib
+pillow
