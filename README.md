@@ -400,7 +400,7 @@ If this code or methodology supports your work, please cite:
 ```bibtex
 @software{polymer_rgcn_3edge,
   title = {Polymer RGCN: Multi-Property Prediction with Explainable AI},
-  author = {Onawole, Abdulmujeeb T; Sulaiman, Kazeem O },
+  author = {Onawole, Abdulmujeeb T; },
   year = {2025},
   note = {3-edge relational GCN with Murcko-based FFV explainability}
 }
